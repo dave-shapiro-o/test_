@@ -1,5 +1,3 @@
 readme.md
 
-£ Hi
-
-£ Hello
+# Hello
